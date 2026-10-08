@@ -1,0 +1,26 @@
+car_id,car_brand,car_model,total_revenue,total_units_sold
+14,Audi,A6,13450000,269
+20,Mercedes-Benz,E-Class,12705000,231
+10,BMW,5 Series,9585000,213
+9,BMW,3 Series,9205000,263
+13,Audi,A4,8672000,271
+6,Tesla,Model S,7640000,191
+19,Mercedes-Benz,C-Class,6107000,197
+8,Ford,Mustang,5768000,206
+16,Subaru,Outback,5751000,213
+4,Toyota,Camry,5640000,188
+2,Honda,Accord,5325000,213
+1,Honda,Civic,4900000,245
+18,Mazda,CX-9,4704000,168
+12,Hyundai,Sonata,4641000,221
+15,Subaru,Impreza,4161000,219
+17,Mazda,CX-5,3744000,156
+5,Tesla,Model 3,3564000,162
+3,Toyota,Corolla,3420000,190
+7,Ford,Focus,3270000,218
+11,Hyundai,Elantra,2958000,174
+25,Genesis,G70,160000,4
+23,Volvo,XC60,135000,3
+22,Kia,Optima,104000,4
+21,Nissan,Altima,72000,3
+24,Volkswagen,Passat,33000,1
